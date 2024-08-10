@@ -55,7 +55,7 @@ This web/android-based application revolutionizes developers' workflow by provid
 3. Implement suggested improvements.
 
 ## Collaborators
-- Patel Krish
+- Vishal Yadav
 - Desai Harshbhai
 - Rajput Ashish
 
